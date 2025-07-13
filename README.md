@@ -2,7 +2,7 @@
 
 This project explores two approaches to image classification:
 1. A custom-built Convolutional Neural Network (CNN)
-2. Transfer learning using pre-trained models (e.g., VGG16, ResNet)
+2. Transfer learning using pre-trained models (ResNet and MobileNet)
 
 ## Contents
 
